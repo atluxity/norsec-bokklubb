@@ -111,6 +111,10 @@ Anbefalt av: @furdy
 
 "Anbefalt" av: @nech   
 
+### :books:  The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics - Ben Buchanan [Amazon](https://www.amazon.com/gp/product/0674987551/)
+*Denne boken tar opp de geopolitiske kapabilitetene og det større bildet i verden og hvordan cyber påvirker hva som skjer på et globalt nivå.*
+
+"Anbefalt" av: @atluxity
 
 - - - 
 
